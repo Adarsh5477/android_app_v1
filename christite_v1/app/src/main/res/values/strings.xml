@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">christite_v1</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password">password</string>
+    <string name="signup" />
+    <string name="google_forms" />
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feedback_types">
+        <item>excellent</item>
+        <item>good</item>
+        <item>fair</item>
+        <item>poor</item>
+    </string-array>
+
+</resources>
