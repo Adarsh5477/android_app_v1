@@ -18,8 +18,8 @@ class MainActivity6 : AppCompatActivity() {
         val fab=findViewById<Button>(R.id.fab)
 val vv=findViewById<VideoView>(R.id.videoView)
 
-        val path="android.resorce://${packageName}/${R.raw.christ}"
-
+       // val path="android.resorce://${packageName}/${R.raw.christpromo}"
+        val path="android.resorce://"+packageName+"/"+R.raw.christpromo
         vv.setVideoURI(Uri.parse(path))
         fab.setOnClickListener(){
             val alertDialogBuilder = AlertDialog.Builder(this)
