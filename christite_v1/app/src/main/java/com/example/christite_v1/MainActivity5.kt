@@ -13,6 +13,7 @@ class MainActivity5 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main5)
+        // TODO
         val timePicker = findViewById<TimePicker>(R.id.timepicker)
         timePicker.setOnTimeChangedListener { _, hour, minute -> var hour = hour
             var am_pm = ""

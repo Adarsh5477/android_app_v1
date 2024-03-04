@@ -4,4 +4,11 @@
     <string name="password">password</string>
     <string name="signup" />
     <string name="google_forms" />
+    <string name="mca">MCA</string>
+    <string name="master_of_computer_application">Master of Computer Application</string>
+    <string name="fab">fab</string>
+    <string name="title_activity_main8">MainActivity8</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
