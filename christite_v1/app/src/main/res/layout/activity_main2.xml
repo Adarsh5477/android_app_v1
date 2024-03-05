@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/l_b"
+
     android:gravity="top|center"
     android:padding="16dp"
     tools:context=".MainActivity">
@@ -21,7 +21,7 @@
             android:layout_width="1.5in"
             android:gravity="center"
             android:layout_height="wrap_content"
-            android:text="LOGIN"
+            android:text="sign up"
             android:textColor="@color/black"
             android:textSize="50sp"
             android:layout_marginTop="16dp"
